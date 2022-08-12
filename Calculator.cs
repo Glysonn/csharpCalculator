@@ -1,6 +1,6 @@
 namespace _CSharpCalculator
 {
-    class Calculator
+    class Calculator : Formulas
     {
         
     }
