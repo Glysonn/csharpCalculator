@@ -1,0 +1,15 @@
+C:\Users\Estudos\Desktop\CSharpCalculator\bin\Debug\net6.0\CSharpCalculator.exe
+C:\Users\Estudos\Desktop\CSharpCalculator\bin\Debug\net6.0\CSharpCalculator.deps.json
+C:\Users\Estudos\Desktop\CSharpCalculator\bin\Debug\net6.0\CSharpCalculator.runtimeconfig.json
+C:\Users\Estudos\Desktop\CSharpCalculator\bin\Debug\net6.0\CSharpCalculator.dll
+C:\Users\Estudos\Desktop\CSharpCalculator\bin\Debug\net6.0\CSharpCalculator.pdb
+C:\Users\Estudos\Desktop\CSharpCalculator\obj\Debug\net6.0\CSharpCalculator.csproj.AssemblyReference.cache
+C:\Users\Estudos\Desktop\CSharpCalculator\obj\Debug\net6.0\CSharpCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudos\Desktop\CSharpCalculator\obj\Debug\net6.0\CSharpCalculator.AssemblyInfoInputs.cache
+C:\Users\Estudos\Desktop\CSharpCalculator\obj\Debug\net6.0\CSharpCalculator.AssemblyInfo.cs
+C:\Users\Estudos\Desktop\CSharpCalculator\obj\Debug\net6.0\CSharpCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Estudos\Desktop\CSharpCalculator\obj\Debug\net6.0\CSharpCalculator.dll
+C:\Users\Estudos\Desktop\CSharpCalculator\obj\Debug\net6.0\refint\CSharpCalculator.dll
+C:\Users\Estudos\Desktop\CSharpCalculator\obj\Debug\net6.0\CSharpCalculator.pdb
+C:\Users\Estudos\Desktop\CSharpCalculator\obj\Debug\net6.0\CSharpCalculator.genruntimeconfig.cache
+C:\Users\Estudos\Desktop\CSharpCalculator\obj\Debug\net6.0\ref\CSharpCalculator.dll
